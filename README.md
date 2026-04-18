@@ -7,3 +7,5 @@ Based on the RTM model, we optimized the dsconv and SimAM modules, and added a s
 
 
 ![Inference result](./Fig12(a).png "Fig 12(a)")
+![Inference result](./Fig12(b).png "Fig 12(b)")
+![Inference result](./Fig12(c).png "Fig 12(c)")
