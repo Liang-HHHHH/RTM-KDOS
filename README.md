@@ -7,6 +7,7 @@ Based on the RTM model, we optimized the dsconv and SimAM modules, and added a s
 
 Inference_result_of_RTM-KDOS.gif:
 ![Inference example](./Inference_result_of_RTM-KDOS.gif)
+
 Fig 12(a):
 ![Inference result](./Fig12(a).png "Fig 12(a)")
 Fig 12(b):      
