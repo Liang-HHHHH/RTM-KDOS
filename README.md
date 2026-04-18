@@ -6,4 +6,4 @@ Based on the RTM model, we optimized the dsconv and SimAM modules, and added a s
 [Inference result of RTM-KDOS.mp4] This video demonstrates RTM‑KDOS accurately predicting keypoints and simultaneously outputting operability scores (not confidence). The operability score varies with the viewing angle and reaches its peak when the three keypoints lie on the same plane. RTM‑KDOS performs consistently under both front‑lighting and backlit conditions. Selected cases are partially presented in Figures 1–8.
 
 
-![Inference result](./Fig 12(a).png "Fig 12(a)")
+![Inference result](./Fig12(a).png "Fig 12(a)")
